@@ -50,7 +50,7 @@ Add the following code to your HTML page's `<head>` or before the closing `</bod
 </script>
 
 <!-- Widget Script -->
-<script src="https://cdn.jsdelivr.net/gh/juansebsol/n8n-chatbot-template@latest/chat-widget.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/le-dawg/air-n8n-chatbot-boilerplate@latest/chat-widget.js"></script>
 ```
 
 ### Method 2: Self-Hosted

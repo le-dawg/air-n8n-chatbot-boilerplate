@@ -296,7 +296,7 @@
             welcomeText: '',
             responseTimeText: '',
             poweredBy: {
-                text: 'Powered by AI Rådgivning U+1F1E9',
+                text: 'Powered by AI Rådgivning 🇩🇰',
                 link: 'https://ai-raadgivning.dk/?utm_source=nocodecreative.io'
             }
         },

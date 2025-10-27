@@ -297,7 +297,7 @@
             responseTimeText: '',
             poweredBy: {
                 text: 'Powered by AI Rådgivning 🇩🇰',
-                link: 'https://ai-raadgivning.dk/?utm_source=codepen.io/qbhrqmgn-the-bold/full/EaPRMMp'
+                link: 'https://ai-raadgivning.dk/'
             }
         },
         style: {
